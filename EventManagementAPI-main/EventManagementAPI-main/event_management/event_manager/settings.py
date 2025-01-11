@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'events',
     'rest_framework',  # Django REST Framework
     'rest_framework_simplejwt',  # JWT Authentication
-    'corsheaders',  # CORS Headers
     'django_filters',
     
 
